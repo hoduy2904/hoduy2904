@@ -1,5 +1,5 @@
 ### Hi there, I'm Duy Ho 👋
-![Duy Ho GitHub stats](https://github-readme-stats.vercel.app/api?username=hoduy2904&show_icons=true&theme=transparent&hide_border=true)  
+![Duy Ho GitHub stats](https://github-readme-stats.vercel.app/api?username=hoduy2904&show_icons=true&theme=transparent&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoduy2904&layout=compact&hide_border=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
